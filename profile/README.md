@@ -78,6 +78,10 @@
 | `PitterPetter_Infra`      | Terraform IaC         | 장우 | 진기, 슬기 |
 | `PitterPetter_Config`     | 공통 설정/프로파일 관리         | —  | —      |
 
+## 🧭 System Architecture
+
+<img width="775" height="483" alt="image" src="https://github.com/user-attachments/assets/418abf48-651c-455b-aa2b-a7b4ffa908be" />
+
 
 ## 🧭 Design Architecture 
 
